@@ -8,7 +8,7 @@ import android.widget.ImageView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 
-class RecyclerAdapter(private  val  context: Context,
+class RecyclerAdapter(private val  context: Context,
                       private val links: List<String>,
                       private val cellClickListener: CellClickListener) :
     RecyclerView.Adapter<RecyclerAdapter.MyViewHolder>() {

@@ -3,10 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/MobDev_Learning/Lab5/GSON/app/src/main/res/layout/activity_main.xml" value="0.5385416666666667" />
-        <entry key="..\:/MobDev_Learning/Lab5/GSON/app/src/main/res/layout/r_view.xml" value="0.5385416666666667" />
-        <entry key="..\:/Users/gusev/AndroidStudioProjects/GSON/app/src/main/res/layout/activity_main.xml" value="0.5541666666666667" />
-        <entry key="..\:/Users/gusev/AndroidStudioProjects/GSON/app/src/main/res/layout/r_view.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/gusev/AndroidStudioProjects/MyDialer/app/src/main/res/layout/activity_main.xml" value="0.5401041666666667" />
+        <entry key="..\:/Users/gusev/AndroidStudioProjects/MyDialer/app/src/main/res/layout/rview_item.xml" value="0.278125" />
       </map>
     </option>
   </component>
